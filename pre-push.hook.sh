@@ -22,6 +22,7 @@
 remote="$1"
 url="$2"
 
+echo "new branch"
 echo "remote = $remote, url = $url"
 
 z40=0000000000000000000000000000000000000000
